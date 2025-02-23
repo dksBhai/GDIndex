@@ -1,0 +1,14 @@
+{
+  "drive": {
+    "client_id": "YOUR_CLIENT_ID",
+    "client_secret": "YOUR_CLIENT_SECRET",
+    "refresh_token": "YOUR_REFRESH_TOKEN"
+  },
+  "auth": {
+    "username": "yourUsername",
+    "password": "yourPassword"
+  },
+  "files": {
+    "max_preview_size": 100000000
+  }
+}
